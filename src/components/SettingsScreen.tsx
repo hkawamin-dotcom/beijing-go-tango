@@ -1,6 +1,7 @@
 import type { Settings } from '../lib/db'
 import { SLOW_LEVELS, speak, type SlowLevel } from '../lib/tts'
 import { Header, SpeakButton } from './ui'
+import { VoiceDiagnostics } from './VoiceDiagnostics'
 
 const NEW_PER_DAY_OPTIONS = [5, 10, 15, 20]
 const SAMPLE = '你好，我是你的汉语老师。'
@@ -103,6 +104,8 @@ export function SettingsScreen({ settings, onChange, onReset, onBack }: Props) {
             学習記録をリセット
           </button>
         </section>
+
+        <VoiceDiagnostics />
 
         <p className="text-center text-xs text-stone-400">
           単語：新HSK（2021年基準）1級より抜粋 ／ 訳・例文：自作
