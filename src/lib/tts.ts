@@ -44,16 +44,17 @@ export function loadChineseVoice(): Promise<SpeechSynthesisVoice | null> {
   })
 }
 
-// 速さについて：
-// iPhone の Safari は「指定した速さ × iPhone 標準の速さ」で読み上げる。
-// 1.0 未満では音声を引き伸ばすため、0.6 まで下げると音が伸びて歪んだ（実機で確認）。
-// そのため普通は 1.0（引き伸ばしなし）、ゆっくりも 0.65 より下げない。
+// 速さについて（iPhone 実機・WebKit での測定、2026-11-16）：
+//   音声を名指し（u.voice を設定）→ 速さ1.0: 3.35秒 / 0.5: 3.57秒 … 速さが無視される
+//   言語だけ指定（u.lang のみ）  → 速さ1.0: 2.71秒 / 0.5: 3.50秒 … 速さが効く
+// そのため音声は名指しせず、言語 zh-CN だけ指定する（端末が中国語の既定音声を選ぶ）。
+// また 0.5 でも約1.3倍しか遅くならないため、ゆっくりの段階は大きめに下げている。
 export const NORMAL_RATE = 1
 
 export const SLOW_LEVELS = {
-  mild: { rate: 0.85, label: '少しゆっくり' },
-  medium: { rate: 0.75, label: 'ゆっくり' },
-  strong: { rate: 0.65, label: 'とてもゆっくり' },
+  mild: { rate: 0.65, label: '少しゆっくり' },
+  medium: { rate: 0.5, label: 'ゆっくり' },
+  strong: { rate: 0.35, label: 'とてもゆっくり' },
 } as const
 
 export type SlowLevel = keyof typeof SLOW_LEVELS
@@ -71,11 +72,10 @@ export function setSlowLevel(level: SlowLevel): void {
 
 export async function speak(text: string, opts: { slow?: boolean; level?: SlowLevel } = {}): Promise<void> {
   if (!isSupported()) return
-  const voice = await loadChineseVoice()
   speechSynthesis.cancel()
   const u = new SpeechSynthesisUtterance(text)
+  // 音声は名指ししない（名指しすると iPhone で速さが無視される）。言語だけ指定する
   u.lang = 'zh-CN'
-  if (voice) u.voice = voice
   u.rate = rateFor(opts, opts.level ?? slowLevel)
   speechSynthesis.speak(u)
 }

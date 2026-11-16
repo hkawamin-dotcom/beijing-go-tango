@@ -24,7 +24,7 @@ export function VoiceDiagnostics() {
     <details className="rounded-2xl bg-white p-4 ring-1 ring-stone-200">
       <summary className="cursor-pointer font-bold">音声の診断（不具合の調査用）</summary>
       <p className="mt-2 text-sm text-stone-500">
-        同じ文を{DIAG_STEPS.length}回、速さを変えて読み上げ、かかった時間を測ります（約30秒）。マナーモードを解除してから押してください。
+        同じ文を{DIAG_STEPS.length}回、速さを変えて読み上げ、かかった時間を測ります（約30秒）。マナーモードを解除してから押し、音が歪む段階がないかも聞いてください。
       </p>
       <button
         type="button"
