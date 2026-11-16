@@ -1,0 +1,43 @@
+# 依存関係
+node_modules/
+.pnpm-store/
+
+# ビルド成果物
+dist/
+build/
+.vite/
+coverage/
+*.tsbuildinfo
+
+# 環境変数（APIキー等は絶対にコミットしない）
+.env
+.env.*
+!.env.example
+
+# ログ
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# エディタ・OS
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude Code（個人設定はコミットしない）
+.claude/settings.local.json
+
+# テスト・E2E
+playwright-report/
+test-results/
+
+# 一時ファイル
+*.tmp
+tmp/
+
+# Playwright の確認用ログ
+.playwright-mcp/

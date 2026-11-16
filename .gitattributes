@@ -1,0 +1,11 @@
+# 改行コードをLFに統一（Windows/Mac混在でも差分が崩れない）
+* text=auto eol=lf
+
+# バイナリ（音声・画像）
+*.mp3 binary
+*.wav binary
+*.ogg binary
+*.png binary
+*.jpg binary
+*.webp binary
+*.woff2 binary

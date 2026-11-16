@@ -1,0 +1,2638 @@
+[
+  {
+    "id": "你",
+    "hanzi": "你",
+    "pinyin": "nǐ",
+    "pinyinNum": "ni3",
+    "pos": "代詞",
+    "ja": "あなた",
+    "hsk": 1,
+    "example": {
+      "zh": "你好吗？",
+      "pinyin": "Nǐ hǎo ma?",
+      "ja": "元気？"
+    }
+  },
+  {
+    "id": "你们",
+    "hanzi": "你们",
+    "pinyin": "nǐmen",
+    "pinyinNum": "ni3 men0",
+    "pos": "代詞",
+    "ja": "あなたたち",
+    "hsk": 1,
+    "example": {
+      "zh": "你们是学生吗？",
+      "pinyin": "Nǐ men shì xué sheng ma?",
+      "ja": "あなたたちは学生ですか。"
+    }
+  },
+  {
+    "id": "您",
+    "hanzi": "您",
+    "pinyin": "nín",
+    "pinyinNum": "nin2",
+    "pos": "代詞",
+    "ja": "あなた（丁寧）",
+    "hsk": 1,
+    "example": {
+      "zh": "您好！",
+      "pinyin": "Nín hǎo!",
+      "ja": "こんにちは（丁寧）。"
+    }
+  },
+  {
+    "id": "我",
+    "hanzi": "我",
+    "pinyin": "wǒ",
+    "pinyinNum": "wo3",
+    "pos": "代詞",
+    "ja": "私",
+    "hsk": 1,
+    "example": {
+      "zh": "我是日本人。",
+      "pinyin": "Wǒ shì rì běn rén.",
+      "ja": "私は日本人です。"
+    }
+  },
+  {
+    "id": "我们",
+    "hanzi": "我们",
+    "pinyin": "wǒmen",
+    "pinyinNum": "wo3 men0",
+    "pos": "代詞",
+    "ja": "私たち",
+    "hsk": 1,
+    "example": {
+      "zh": "我们都是朋友。",
+      "pinyin": "Wǒ men dōu shì péng you.",
+      "ja": "私たちはみんな友達です。"
+    }
+  },
+  {
+    "id": "他",
+    "hanzi": "他",
+    "pinyin": "tā",
+    "pinyinNum": "ta1",
+    "pos": "代詞",
+    "ja": "彼",
+    "hsk": 1,
+    "example": {
+      "zh": "他是我朋友。",
+      "pinyin": "Tā shì wǒ péng you.",
+      "ja": "彼は私の友達です。"
+    }
+  },
+  {
+    "id": "她",
+    "hanzi": "她",
+    "pinyin": "tā",
+    "pinyinNum": "ta1",
+    "pos": "代詞",
+    "ja": "彼女",
+    "hsk": 1,
+    "example": {
+      "zh": "她是我姐姐。",
+      "pinyin": "Tā shì wǒ jiě jie.",
+      "ja": "彼女は私の姉です。"
+    }
+  },
+  {
+    "id": "谁",
+    "hanzi": "谁",
+    "pinyin": "shéi",
+    "pinyinNum": "shei2",
+    "pos": "代詞",
+    "ja": "だれ",
+    "hsk": 1,
+    "example": {
+      "zh": "他是谁？",
+      "pinyin": "Tā shì shéi?",
+      "ja": "彼はだれ？"
+    }
+  },
+  {
+    "id": "什么",
+    "hanzi": "什么",
+    "pinyin": "shénme",
+    "pinyinNum": "shen2 me0",
+    "pos": "代詞",
+    "ja": "何",
+    "hsk": 1,
+    "example": {
+      "zh": "你想吃什么？",
+      "pinyin": "Nǐ xiǎng chī shén me?",
+      "ja": "何が食べたい？"
+    }
+  },
+  {
+    "id": "这",
+    "hanzi": "这",
+    "pinyin": "zhè",
+    "pinyinNum": "zhe4",
+    "pos": "代詞",
+    "ja": "これ・この",
+    "hsk": 1,
+    "example": {
+      "zh": "这是什么？",
+      "pinyin": "Zhè shì shén me?",
+      "ja": "これは何？"
+    }
+  },
+  {
+    "id": "那",
+    "hanzi": "那",
+    "pinyin": "nà",
+    "pinyinNum": "na4",
+    "pos": "代詞",
+    "ja": "あれ・それ",
+    "hsk": 1,
+    "example": {
+      "zh": "那是我的。",
+      "pinyin": "Nà shì wǒ de.",
+      "ja": "あれは私のです。"
+    }
+  },
+  {
+    "id": "哪",
+    "hanzi": "哪",
+    "pinyin": "nǎ",
+    "pinyinNum": "na3",
+    "pos": "代詞",
+    "ja": "どれ・どの",
+    "hsk": 1,
+    "example": {
+      "zh": "你是哪国人？",
+      "pinyin": "Nǐ shì nǎ guó rén?",
+      "ja": "どこの国の人ですか。"
+    }
+  },
+  {
+    "id": "哪儿",
+    "hanzi": "哪儿",
+    "pinyin": "nǎr",
+    "pinyinNum": "nar3",
+    "pos": "代詞",
+    "ja": "どこ",
+    "hsk": 1,
+    "example": {
+      "zh": "你去哪儿？",
+      "pinyin": "Nǐ qù nǎr?",
+      "ja": "どこへ行くの？"
+    }
+  },
+  {
+    "id": "这儿",
+    "hanzi": "这儿",
+    "pinyin": "zhèr",
+    "pinyinNum": "zher4",
+    "pos": "代詞",
+    "ja": "ここ",
+    "hsk": 1,
+    "example": {
+      "zh": "这儿是学校。",
+      "pinyin": "Zhèr shì xué xiào.",
+      "ja": "ここは学校です。"
+    }
+  },
+  {
+    "id": "那儿",
+    "hanzi": "那儿",
+    "pinyin": "nàr",
+    "pinyinNum": "nar4",
+    "pos": "代詞",
+    "ja": "そこ・あそこ",
+    "hsk": 1,
+    "example": {
+      "zh": "我家在那儿。",
+      "pinyin": "Wǒ jiā zài nàr.",
+      "ja": "私の家はあそこです。"
+    }
+  },
+  {
+    "id": "几",
+    "hanzi": "几",
+    "pinyin": "jǐ",
+    "pinyinNum": "ji3",
+    "pos": "代詞",
+    "ja": "いくつ（10未満を想定）",
+    "jaForm": "幾",
+    "hsk": 1,
+    "example": {
+      "zh": "你家有几口人？",
+      "pinyin": "Nǐ jiā yǒu jǐ kǒu rén?",
+      "ja": "何人家族ですか。"
+    }
+  },
+  {
+    "id": "多少",
+    "hanzi": "多少",
+    "pinyin": "duōshao",
+    "pinyinNum": "duo1 shao0",
+    "pos": "代詞",
+    "ja": "どれくらい・いくら",
+    "hsk": 1,
+    "example": {
+      "zh": "这个多少钱？",
+      "pinyin": "Zhè ge duō shao qián?",
+      "ja": "これはいくら？"
+    }
+  },
+  {
+    "id": "怎么",
+    "hanzi": "怎么",
+    "pinyin": "zěnme",
+    "pinyinNum": "zen3 me0",
+    "pos": "代詞",
+    "ja": "どのように・どうして",
+    "hsk": 1,
+    "example": {
+      "zh": "这个字怎么读？",
+      "pinyin": "Zhè ge zì zěn me dú?",
+      "ja": "この字はどう読むの？"
+    }
+  },
+  {
+    "id": "怎么样",
+    "hanzi": "怎么样",
+    "pinyin": "zěnmeyàng",
+    "pinyinNum": "zen3 me0 yang4",
+    "pos": "代詞",
+    "ja": "どうですか",
+    "hsk": 1,
+    "example": {
+      "zh": "今天天气怎么样？",
+      "pinyin": "Jīn tiān tiān qì zěn me yàng?",
+      "ja": "今日の天気はどう？"
+    }
+  },
+  {
+    "id": "一",
+    "hanzi": "一",
+    "pinyin": "yī",
+    "pinyinNum": "yi1",
+    "pos": "数詞",
+    "ja": "1",
+    "hsk": 1,
+    "example": {
+      "zh": "我买了一本书。",
+      "pinyin": "Wǒ mǎi le yì běn shū.",
+      "ja": "本を1冊買った。"
+    }
+  },
+  {
+    "id": "二",
+    "hanzi": "二",
+    "pinyin": "èr",
+    "pinyinNum": "er4",
+    "pos": "数詞",
+    "ja": "2",
+    "hsk": 1,
+    "example": {
+      "zh": "二月很冷。",
+      "pinyin": "Èr yuè hěn lěng.",
+      "ja": "2月は寒い。"
+    }
+  },
+  {
+    "id": "三",
+    "hanzi": "三",
+    "pinyin": "sān",
+    "pinyinNum": "san1",
+    "pos": "数詞",
+    "ja": "3",
+    "hsk": 1,
+    "example": {
+      "zh": "我学了三年汉语。",
+      "pinyin": "Wǒ xué le sān nián hàn yǔ.",
+      "ja": "中国語を3年勉強した。"
+    }
+  },
+  {
+    "id": "四",
+    "hanzi": "四",
+    "pinyin": "sì",
+    "pinyinNum": "si4",
+    "pos": "数詞",
+    "ja": "4",
+    "hsk": 1,
+    "example": {
+      "zh": "我们家有四口人。",
+      "pinyin": "Wǒ men jiā yǒu sì kǒu rén.",
+      "ja": "うちは4人家族です。"
+    }
+  },
+  {
+    "id": "五",
+    "hanzi": "五",
+    "pinyin": "wǔ",
+    "pinyinNum": "wu3",
+    "pos": "数詞",
+    "ja": "5",
+    "hsk": 1,
+    "example": {
+      "zh": "五点见。",
+      "pinyin": "Wǔ diǎn jiàn.",
+      "ja": "5時に会おう。"
+    }
+  },
+  {
+    "id": "六",
+    "hanzi": "六",
+    "pinyin": "liù",
+    "pinyinNum": "liu4",
+    "pos": "数詞",
+    "ja": "6",
+    "hsk": 1,
+    "example": {
+      "zh": "我六点起床。",
+      "pinyin": "Wǒ liù diǎn qǐ chuáng.",
+      "ja": "6時に起きる。"
+    }
+  },
+  {
+    "id": "七",
+    "hanzi": "七",
+    "pinyin": "qī",
+    "pinyinNum": "qi1",
+    "pos": "数詞",
+    "ja": "7",
+    "hsk": 1,
+    "example": {
+      "zh": "我有七本书。",
+      "pinyin": "Wǒ yǒu qī běn shū.",
+      "ja": "本を7冊持っている。"
+    }
+  },
+  {
+    "id": "八",
+    "hanzi": "八",
+    "pinyin": "bā",
+    "pinyinNum": "ba1",
+    "pos": "数詞",
+    "ja": "8",
+    "hsk": 1,
+    "example": {
+      "zh": "八月很热。",
+      "pinyin": "Bā yuè hěn rè.",
+      "ja": "8月は暑い。"
+    }
+  },
+  {
+    "id": "九",
+    "hanzi": "九",
+    "pinyin": "jiǔ",
+    "pinyinNum": "jiu3",
+    "pos": "数詞",
+    "ja": "9",
+    "hsk": 1,
+    "example": {
+      "zh": "现在九点。",
+      "pinyin": "Xiàn zài jiǔ diǎn.",
+      "ja": "今9時です。"
+    }
+  },
+  {
+    "id": "十",
+    "hanzi": "十",
+    "pinyin": "shí",
+    "pinyinNum": "shi2",
+    "pos": "数詞",
+    "ja": "10",
+    "hsk": 1,
+    "example": {
+      "zh": "他十岁。",
+      "pinyin": "Tā shí suì.",
+      "ja": "彼は10歳です。"
+    }
+  },
+  {
+    "id": "百",
+    "hanzi": "百",
+    "pinyin": "bǎi",
+    "pinyinNum": "bai3",
+    "pos": "数詞",
+    "ja": "百",
+    "hsk": 1,
+    "example": {
+      "zh": "一百块钱。",
+      "pinyin": "Yì bǎi kuài qián.",
+      "ja": "100元。"
+    }
+  },
+  {
+    "id": "零",
+    "hanzi": "零",
+    "pinyin": "líng",
+    "pinyinNum": "ling2",
+    "pos": "数詞",
+    "ja": "ゼロ",
+    "hsk": 1,
+    "example": {
+      "zh": "二零二六年。",
+      "pinyin": "Èr líng èr liù nián.",
+      "ja": "2026年。"
+    }
+  },
+  {
+    "id": "两",
+    "hanzi": "两",
+    "pinyin": "liǎng",
+    "pinyinNum": "liang3",
+    "pos": "数詞",
+    "ja": "2つ（数量）",
+    "jaForm": "両",
+    "caution": "数量を言うときは「二」ではなく「两」",
+    "hsk": 1,
+    "example": {
+      "zh": "我有两个妹妹。",
+      "pinyin": "Wǒ yǒu liǎng gè mèi mei.",
+      "ja": "妹が2人いる。"
+    }
+  },
+  {
+    "id": "个",
+    "hanzi": "个",
+    "pinyin": "gè",
+    "pinyinNum": "ge4",
+    "pos": "量詞",
+    "ja": "〜個（人や物に広く使う）",
+    "jaForm": "個",
+    "hsk": 1,
+    "example": {
+      "zh": "我买了三个杯子。",
+      "pinyin": "Wǒ mǎi le sān gè bēi zi.",
+      "ja": "コップを3つ買った。"
+    }
+  },
+  {
+    "id": "本",
+    "hanzi": "本",
+    "pinyin": "běn",
+    "pinyinNum": "ben3",
+    "pos": "量詞",
+    "ja": "〜冊",
+    "hsk": 1,
+    "example": {
+      "zh": "我买了两本书。",
+      "pinyin": "Wǒ mǎi le liǎng běn shū.",
+      "ja": "本を2冊買った。"
+    }
+  },
+  {
+    "id": "块",
+    "hanzi": "块",
+    "pinyin": "kuài",
+    "pinyinNum": "kuai4",
+    "pos": "量詞",
+    "ja": "〜元（話し言葉）",
+    "hsk": 1,
+    "example": {
+      "zh": "这个五块钱。",
+      "pinyin": "Zhè ge wǔ kuài qián.",
+      "ja": "これは5元です。"
+    }
+  },
+  {
+    "id": "岁",
+    "hanzi": "岁",
+    "pinyin": "suì",
+    "pinyinNum": "sui4",
+    "pos": "量詞",
+    "ja": "〜歳",
+    "jaForm": "歳",
+    "hsk": 1,
+    "example": {
+      "zh": "你几岁？",
+      "pinyin": "Nǐ jǐ suì?",
+      "ja": "何歳？"
+    }
+  },
+  {
+    "id": "口",
+    "hanzi": "口",
+    "pinyin": "kǒu",
+    "pinyinNum": "kou3",
+    "pos": "量詞",
+    "ja": "〜人（家族の人数）、口",
+    "hsk": 1,
+    "example": {
+      "zh": "我家有三口人。",
+      "pinyin": "Wǒ jiā yǒu sān kǒu rén.",
+      "ja": "うちは3人家族です。"
+    }
+  },
+  {
+    "id": "天",
+    "hanzi": "天",
+    "pinyin": "tiān",
+    "pinyinNum": "tian1",
+    "pos": "名詞",
+    "ja": "日、空",
+    "hsk": 1,
+    "example": {
+      "zh": "我在北京住了三天。",
+      "pinyin": "Wǒ zài běi jīng zhù le sān tiān.",
+      "ja": "北京に3日滞在した。"
+    }
+  },
+  {
+    "id": "年",
+    "hanzi": "年",
+    "pinyin": "nián",
+    "pinyinNum": "nian2",
+    "pos": "名詞",
+    "ja": "年",
+    "hsk": 1,
+    "example": {
+      "zh": "今年是二零二六年。",
+      "pinyin": "Jīn nián shì èr líng èr liù nián.",
+      "ja": "今年は2026年です。"
+    }
+  },
+  {
+    "id": "月",
+    "hanzi": "月",
+    "pinyin": "yuè",
+    "pinyinNum": "yue4",
+    "pos": "名詞",
+    "ja": "月",
+    "hsk": 1,
+    "example": {
+      "zh": "我的生日是五月。",
+      "pinyin": "Wǒ de shēng rì shì wǔ yuè.",
+      "ja": "私の誕生日は5月です。"
+    }
+  },
+  {
+    "id": "日",
+    "hanzi": "日",
+    "pinyin": "rì",
+    "pinyinNum": "ri4",
+    "pos": "名詞",
+    "ja": "日（日付）",
+    "hsk": 1,
+    "example": {
+      "zh": "今天是三月八日。",
+      "pinyin": "Jīn tiān shì sān yuè bā rì.",
+      "ja": "今日は3月8日です。"
+    }
+  },
+  {
+    "id": "号",
+    "hanzi": "号",
+    "pinyin": "hào",
+    "pinyinNum": "hao4",
+    "pos": "名詞",
+    "ja": "〜日（日付）、番号",
+    "hsk": 1,
+    "example": {
+      "zh": "今天几号？",
+      "pinyin": "Jīn tiān jǐ hào?",
+      "ja": "今日は何日？"
+    }
+  },
+  {
+    "id": "星期",
+    "hanzi": "星期",
+    "pinyin": "xīngqī",
+    "pinyinNum": "xing1 qi1",
+    "pos": "名詞",
+    "ja": "週、曜日",
+    "hsk": 1,
+    "example": {
+      "zh": "一个星期有七天。",
+      "pinyin": "Yí gè xīng qī yǒu qī tiān.",
+      "ja": "1週間は7日ある。"
+    }
+  },
+  {
+    "id": "点",
+    "hanzi": "点",
+    "pinyin": "diǎn",
+    "pinyinNum": "dian3",
+    "pos": "量詞",
+    "ja": "〜時",
+    "hsk": 1,
+    "example": {
+      "zh": "我们三点见。",
+      "pinyin": "Wǒ men sān diǎn jiàn.",
+      "ja": "3時に会おう。"
+    }
+  },
+  {
+    "id": "分",
+    "hanzi": "分",
+    "pinyin": "fēn",
+    "pinyinNum": "fen1",
+    "pos": "量詞",
+    "ja": "〜分",
+    "hsk": 1,
+    "example": {
+      "zh": "现在八点十分。",
+      "pinyin": "Xiàn zài bā diǎn shí fēn.",
+      "ja": "今8時10分です。"
+    }
+  },
+  {
+    "id": "小时",
+    "hanzi": "小时",
+    "pinyin": "xiǎoshí",
+    "pinyinNum": "xiao3 shi2",
+    "pos": "名詞",
+    "ja": "〜時間",
+    "jaForm": "小時",
+    "hsk": 1,
+    "example": {
+      "zh": "我睡了八个小时。",
+      "pinyin": "Wǒ shuì le bā gè xiǎo shí.",
+      "ja": "8時間寝た。"
+    }
+  },
+  {
+    "id": "今天",
+    "hanzi": "今天",
+    "pinyin": "jīntiān",
+    "pinyinNum": "jin1 tian1",
+    "pos": "名詞",
+    "ja": "今日",
+    "hsk": 1,
+    "example": {
+      "zh": "今天是星期一。",
+      "pinyin": "Jīn tiān shì xīng qī yī.",
+      "ja": "今日は月曜日です。"
+    }
+  },
+  {
+    "id": "明天",
+    "hanzi": "明天",
+    "pinyin": "míngtiān",
+    "pinyinNum": "ming2 tian1",
+    "pos": "名詞",
+    "ja": "明日",
+    "hsk": 1,
+    "example": {
+      "zh": "明天见！",
+      "pinyin": "Míng tiān jiàn!",
+      "ja": "また明日！"
+    }
+  },
+  {
+    "id": "昨天",
+    "hanzi": "昨天",
+    "pinyin": "zuótiān",
+    "pinyinNum": "zuo2 tian1",
+    "pos": "名詞",
+    "ja": "昨日",
+    "hsk": 1,
+    "example": {
+      "zh": "昨天我去了商店。",
+      "pinyin": "Zuó tiān wǒ qù le shāng diàn.",
+      "ja": "昨日お店に行った。"
+    }
+  },
+  {
+    "id": "现在",
+    "hanzi": "现在",
+    "pinyin": "xiànzài",
+    "pinyinNum": "xian4 zai4",
+    "pos": "名詞",
+    "ja": "今",
+    "jaForm": "現在",
+    "hsk": 1,
+    "example": {
+      "zh": "现在几点了？",
+      "pinyin": "Xiàn zài jǐ diǎn le?",
+      "ja": "今何時になった？"
+    }
+  },
+  {
+    "id": "上午",
+    "hanzi": "上午",
+    "pinyin": "shàngwǔ",
+    "pinyinNum": "shang4 wu3",
+    "pos": "名詞",
+    "ja": "午前",
+    "hsk": 1,
+    "example": {
+      "zh": "我上午有课。",
+      "pinyin": "Wǒ shàng wǔ yǒu kè.",
+      "ja": "午前に授業がある。"
+    }
+  },
+  {
+    "id": "中午",
+    "hanzi": "中午",
+    "pinyin": "zhōngwǔ",
+    "pinyinNum": "zhong1 wu3",
+    "pos": "名詞",
+    "ja": "昼",
+    "hsk": 1,
+    "example": {
+      "zh": "中午你吃什么？",
+      "pinyin": "Zhōng wǔ nǐ chī shén me?",
+      "ja": "お昼は何を食べる？"
+    }
+  },
+  {
+    "id": "下午",
+    "hanzi": "下午",
+    "pinyin": "xiàwǔ",
+    "pinyinNum": "xia4 wu3",
+    "pos": "名詞",
+    "ja": "午後",
+    "hsk": 1,
+    "example": {
+      "zh": "下午我去朋友家。",
+      "pinyin": "Xià wǔ wǒ qù péng you jiā.",
+      "ja": "午後は友達の家に行く。"
+    }
+  },
+  {
+    "id": "晚上",
+    "hanzi": "晚上",
+    "pinyin": "wǎnshang",
+    "pinyinNum": "wan3 shang0",
+    "pos": "名詞",
+    "ja": "夜",
+    "hsk": 1,
+    "example": {
+      "zh": "晚上我看电视。",
+      "pinyin": "Wǎn shang wǒ kàn diàn shì.",
+      "ja": "夜はテレビを見る。"
+    }
+  },
+  {
+    "id": "早上",
+    "hanzi": "早上",
+    "pinyin": "zǎoshang",
+    "pinyinNum": "zao3 shang0",
+    "pos": "名詞",
+    "ja": "朝",
+    "hsk": 1,
+    "example": {
+      "zh": "早上好！",
+      "pinyin": "Zǎo shang hǎo!",
+      "ja": "おはよう！"
+    }
+  },
+  {
+    "id": "时候",
+    "hanzi": "时候",
+    "pinyin": "shíhou",
+    "pinyinNum": "shi2 hou0",
+    "pos": "名詞",
+    "ja": "時、ころ",
+    "jaForm": "時候",
+    "caution": "「時候（季節）」ではなく「〜の時」",
+    "hsk": 1,
+    "example": {
+      "zh": "你什么时候来？",
+      "pinyin": "Nǐ shén me shí hou lái?",
+      "ja": "いつ来るの？"
+    }
+  },
+  {
+    "id": "时间",
+    "hanzi": "时间",
+    "pinyin": "shíjiān",
+    "pinyinNum": "shi2 jian1",
+    "pos": "名詞",
+    "ja": "時間",
+    "jaForm": "時間",
+    "hsk": 1,
+    "example": {
+      "zh": "你有时间吗？",
+      "pinyin": "Nǐ yǒu shí jiān ma?",
+      "ja": "時間ある？"
+    }
+  },
+  {
+    "id": "去年",
+    "hanzi": "去年",
+    "pinyin": "qùnián",
+    "pinyinNum": "qu4 nian2",
+    "pos": "名詞",
+    "ja": "去年",
+    "hsk": 1,
+    "example": {
+      "zh": "去年我去了中国。",
+      "pinyin": "Qù nián wǒ qù le zhōng guó.",
+      "ja": "去年中国に行った。"
+    }
+  },
+  {
+    "id": "今年",
+    "hanzi": "今年",
+    "pinyin": "jīnnián",
+    "pinyinNum": "jin1 nian2",
+    "pos": "名詞",
+    "ja": "今年",
+    "hsk": 1,
+    "example": {
+      "zh": "今年我二十岁。",
+      "pinyin": "Jīn nián wǒ èr shí suì.",
+      "ja": "今年20歳になる。"
+    }
+  },
+  {
+    "id": "家",
+    "hanzi": "家",
+    "pinyin": "jiā",
+    "pinyinNum": "jia1",
+    "pos": "名詞",
+    "ja": "家、家庭",
+    "hsk": 1,
+    "example": {
+      "zh": "我家在北京。",
+      "pinyin": "Wǒ jiā zài běi jīng.",
+      "ja": "私の家は北京にある。"
+    }
+  },
+  {
+    "id": "学校",
+    "hanzi": "学校",
+    "pinyin": "xuéxiào",
+    "pinyinNum": "xue2 xiao4",
+    "pos": "名詞",
+    "ja": "学校",
+    "hsk": 1,
+    "example": {
+      "zh": "学校很大。",
+      "pinyin": "Xué xiào hěn dà.",
+      "ja": "学校は大きい。"
+    }
+  },
+  {
+    "id": "商店",
+    "hanzi": "商店",
+    "pinyin": "shāngdiàn",
+    "pinyinNum": "shang1 dian4",
+    "pos": "名詞",
+    "ja": "店",
+    "hsk": 1,
+    "example": {
+      "zh": "商店里人很多。",
+      "pinyin": "Shāng diàn lǐ rén hěn duō.",
+      "ja": "店の中は人が多い。"
+    }
+  },
+  {
+    "id": "医院",
+    "hanzi": "医院",
+    "pinyin": "yīyuàn",
+    "pinyinNum": "yi1 yuan4",
+    "pos": "名詞",
+    "ja": "病院",
+    "caution": "日本の「医院」（小さな診療所）ではなく病院全般",
+    "hsk": 1,
+    "example": {
+      "zh": "我妈妈在医院工作。",
+      "pinyin": "Wǒ mā ma zài yī yuàn gōng zuò.",
+      "ja": "母は病院で働いている。"
+    }
+  },
+  {
+    "id": "饭店",
+    "hanzi": "饭店",
+    "pinyin": "fàndiàn",
+    "pinyinNum": "fan4 dian4",
+    "pos": "名詞",
+    "ja": "ホテル、レストラン",
+    "jaForm": "飯店",
+    "caution": "食堂に限らず、ホテルも指す",
+    "hsk": 1,
+    "example": {
+      "zh": "这个饭店很贵。",
+      "pinyin": "Zhè ge fàn diàn hěn guì.",
+      "ja": "このホテルは高い。"
+    }
+  },
+  {
+    "id": "中国",
+    "hanzi": "中国",
+    "pinyin": "Zhōngguó",
+    "pinyinNum": "zhong1 guo2",
+    "pos": "名詞",
+    "ja": "中国",
+    "hsk": 1,
+    "example": {
+      "zh": "中国很大。",
+      "pinyin": "Zhōng guó hěn dà.",
+      "ja": "中国は広い。"
+    }
+  },
+  {
+    "id": "北京",
+    "hanzi": "北京",
+    "pinyin": "Běijīng",
+    "pinyinNum": "bei3 jing1",
+    "pos": "名詞",
+    "ja": "北京",
+    "hsk": 1,
+    "example": {
+      "zh": "我住在北京。",
+      "pinyin": "Wǒ zhù zài běi jīng.",
+      "ja": "北京に住んでいる。"
+    }
+  },
+  {
+    "id": "人",
+    "hanzi": "人",
+    "pinyin": "rén",
+    "pinyinNum": "ren2",
+    "pos": "名詞",
+    "ja": "人",
+    "hsk": 1,
+    "example": {
+      "zh": "他是中国人。",
+      "pinyin": "Tā shì zhōng guó rén.",
+      "ja": "彼は中国人です。"
+    }
+  },
+  {
+    "id": "老师",
+    "hanzi": "老师",
+    "pinyin": "lǎoshī",
+    "pinyinNum": "lao3 shi1",
+    "pos": "名詞",
+    "ja": "先生（教師）",
+    "jaForm": "老師",
+    "hsk": 1,
+    "example": {
+      "zh": "我们的老师是中国人。",
+      "pinyin": "Wǒ men de lǎo shī shì zhōng guó rén.",
+      "ja": "私たちの先生は中国人です。"
+    }
+  },
+  {
+    "id": "学生",
+    "hanzi": "学生",
+    "pinyin": "xuésheng",
+    "pinyinNum": "xue2 sheng0",
+    "pos": "名詞",
+    "ja": "学生",
+    "hsk": 1,
+    "example": {
+      "zh": "他是学生。",
+      "pinyin": "Tā shì xué sheng.",
+      "ja": "彼は学生です。"
+    }
+  },
+  {
+    "id": "同学",
+    "hanzi": "同学",
+    "pinyin": "tóngxué",
+    "pinyinNum": "tong2 xue2",
+    "pos": "名詞",
+    "ja": "クラスメート",
+    "hsk": 1,
+    "example": {
+      "zh": "他是我的同学。",
+      "pinyin": "Tā shì wǒ de tóng xué.",
+      "ja": "彼は私のクラスメートです。"
+    }
+  },
+  {
+    "id": "朋友",
+    "hanzi": "朋友",
+    "pinyin": "péngyou",
+    "pinyinNum": "peng2 you0",
+    "pos": "名詞",
+    "ja": "友達",
+    "hsk": 1,
+    "example": {
+      "zh": "我有很多中国朋友。",
+      "pinyin": "Wǒ yǒu hěn duō zhōng guó péng you.",
+      "ja": "中国人の友達がたくさんいる。"
+    }
+  },
+  {
+    "id": "医生",
+    "hanzi": "医生",
+    "pinyin": "yīshēng",
+    "pinyinNum": "yi1 sheng1",
+    "pos": "名詞",
+    "ja": "医者",
+    "caution": "「医学生」ではなく医者",
+    "hsk": 1,
+    "example": {
+      "zh": "我爸爸是医生。",
+      "pinyin": "Wǒ bà ba shì yī shēng.",
+      "ja": "父は医者です。"
+    }
+  },
+  {
+    "id": "先生",
+    "hanzi": "先生",
+    "pinyin": "xiānsheng",
+    "pinyinNum": "xian1 sheng0",
+    "pos": "名詞",
+    "ja": "〜さん（男性への敬称）、夫",
+    "caution": "教師ではない。教師は「老师」",
+    "hsk": 1,
+    "example": {
+      "zh": "王先生，您好！",
+      "pinyin": "Wáng xiān sheng, nín hǎo!",
+      "ja": "王さん、こんにちは。"
+    }
+  },
+  {
+    "id": "小姐",
+    "hanzi": "小姐",
+    "pinyin": "xiǎojiě",
+    "pinyinNum": "xiao3 jie3",
+    "pos": "名詞",
+    "ja": "〜さん（若い女性への敬称）",
+    "hsk": 1,
+    "example": {
+      "zh": "李小姐是我的朋友。",
+      "pinyin": "Lǐ xiǎo jiě shì wǒ de péng you.",
+      "ja": "李さんは私の友達です。"
+    }
+  },
+  {
+    "id": "男",
+    "hanzi": "男",
+    "pinyin": "nán",
+    "pinyinNum": "nan2",
+    "pos": "形容詞",
+    "ja": "男の",
+    "hsk": 1,
+    "example": {
+      "zh": "他是男学生。",
+      "pinyin": "Tā shì nán xué sheng.",
+      "ja": "彼は男子学生です。"
+    }
+  },
+  {
+    "id": "女",
+    "hanzi": "女",
+    "pinyin": "nǚ",
+    "pinyinNum": "nü3",
+    "pos": "形容詞",
+    "ja": "女の",
+    "hsk": 1,
+    "example": {
+      "zh": "我们老师是女的。",
+      "pinyin": "Wǒ men lǎo shī shì nǚ de.",
+      "ja": "私たちの先生は女性です。"
+    }
+  },
+  {
+    "id": "孩子",
+    "hanzi": "孩子",
+    "pinyin": "háizi",
+    "pinyinNum": "hai2 zi0",
+    "pos": "名詞",
+    "ja": "子ども",
+    "hsk": 1,
+    "example": {
+      "zh": "他有两个孩子。",
+      "pinyin": "Tā yǒu liǎng gè hái zi.",
+      "ja": "彼には子どもが2人いる。"
+    }
+  },
+  {
+    "id": "儿子",
+    "hanzi": "儿子",
+    "pinyin": "érzi",
+    "pinyinNum": "er2 zi0",
+    "pos": "名詞",
+    "ja": "息子",
+    "hsk": 1,
+    "example": {
+      "zh": "我儿子六岁。",
+      "pinyin": "Wǒ ér zi liù suì.",
+      "ja": "息子は6歳です。"
+    }
+  },
+  {
+    "id": "女儿",
+    "hanzi": "女儿",
+    "pinyin": "nǚ'ér",
+    "pinyinNum": "nü3 er2",
+    "pos": "名詞",
+    "ja": "娘",
+    "hsk": 1,
+    "example": {
+      "zh": "她女儿是学生。",
+      "pinyin": "Tā nǚ ér shì xué sheng.",
+      "ja": "彼女の娘は学生です。"
+    }
+  },
+  {
+    "id": "爸爸",
+    "hanzi": "爸爸",
+    "pinyin": "bàba",
+    "pinyinNum": "ba4 ba0",
+    "pos": "名詞",
+    "ja": "お父さん",
+    "hsk": 1,
+    "example": {
+      "zh": "我爸爸是老师。",
+      "pinyin": "Wǒ bà ba shì lǎo shī.",
+      "ja": "父は先生です。"
+    }
+  },
+  {
+    "id": "妈妈",
+    "hanzi": "妈妈",
+    "pinyin": "māma",
+    "pinyinNum": "ma1 ma0",
+    "pos": "名詞",
+    "ja": "お母さん",
+    "hsk": 1,
+    "example": {
+      "zh": "妈妈在家。",
+      "pinyin": "Mā ma zài jiā.",
+      "ja": "母は家にいる。"
+    }
+  },
+  {
+    "id": "哥哥",
+    "hanzi": "哥哥",
+    "pinyin": "gēge",
+    "pinyinNum": "ge1 ge0",
+    "pos": "名詞",
+    "ja": "兄",
+    "hsk": 1,
+    "example": {
+      "zh": "我哥哥在北京工作。",
+      "pinyin": "Wǒ gē ge zài běi jīng gōng zuò.",
+      "ja": "兄は北京で働いている。"
+    }
+  },
+  {
+    "id": "姐姐",
+    "hanzi": "姐姐",
+    "pinyin": "jiějie",
+    "pinyinNum": "jie3 jie0",
+    "pos": "名詞",
+    "ja": "姉",
+    "hsk": 1,
+    "example": {
+      "zh": "我姐姐喜欢唱歌。",
+      "pinyin": "Wǒ jiě jie xǐ huan chàng gē.",
+      "ja": "姉は歌うのが好きだ。"
+    }
+  },
+  {
+    "id": "弟弟",
+    "hanzi": "弟弟",
+    "pinyin": "dìdi",
+    "pinyinNum": "di4 di0",
+    "pos": "名詞",
+    "ja": "弟",
+    "hsk": 1,
+    "example": {
+      "zh": "我弟弟十岁。",
+      "pinyin": "Wǒ dì di shí suì.",
+      "ja": "弟は10歳です。"
+    }
+  },
+  {
+    "id": "妹妹",
+    "hanzi": "妹妹",
+    "pinyin": "mèimei",
+    "pinyinNum": "mei4 mei0",
+    "pos": "名詞",
+    "ja": "妹",
+    "hsk": 1,
+    "example": {
+      "zh": "我妹妹在学校。",
+      "pinyin": "Wǒ mèi mei zài xué xiào.",
+      "ja": "妹は学校にいる。"
+    }
+  },
+  {
+    "id": "爷爷",
+    "hanzi": "爷爷",
+    "pinyin": "yéye",
+    "pinyinNum": "ye2 ye0",
+    "pos": "名詞",
+    "ja": "（父方の）祖父",
+    "hsk": 1,
+    "example": {
+      "zh": "我爷爷七十岁了。",
+      "pinyin": "Wǒ yé ye qī shí suì le.",
+      "ja": "祖父は70歳になった。"
+    }
+  },
+  {
+    "id": "奶奶",
+    "hanzi": "奶奶",
+    "pinyin": "nǎinai",
+    "pinyinNum": "nai3 nai0",
+    "pos": "名詞",
+    "ja": "（父方の）祖母",
+    "hsk": 1,
+    "example": {
+      "zh": "我奶奶身体很好。",
+      "pinyin": "Wǒ nǎi nai shēn tǐ hěn hǎo.",
+      "ja": "祖母はとても元気だ。"
+    }
+  },
+  {
+    "id": "名字",
+    "hanzi": "名字",
+    "pinyin": "míngzi",
+    "pinyinNum": "ming2 zi0",
+    "pos": "名詞",
+    "ja": "名前",
+    "hsk": 1,
+    "example": {
+      "zh": "你叫什么名字？",
+      "pinyin": "Nǐ jiào shén me míng zi?",
+      "ja": "お名前は？"
+    }
+  },
+  {
+    "id": "书",
+    "hanzi": "书",
+    "pinyin": "shū",
+    "pinyinNum": "shu1",
+    "pos": "名詞",
+    "ja": "本",
+    "jaForm": "書",
+    "hsk": 1,
+    "example": {
+      "zh": "这本书很好。",
+      "pinyin": "Zhè běn shū hěn hǎo.",
+      "ja": "この本はいい。"
+    }
+  },
+  {
+    "id": "字",
+    "hanzi": "字",
+    "pinyin": "zì",
+    "pinyinNum": "zi4",
+    "pos": "名詞",
+    "ja": "字",
+    "hsk": 1,
+    "example": {
+      "zh": "这个字怎么写？",
+      "pinyin": "Zhè ge zì zěn me xiě?",
+      "ja": "この字はどう書くの？"
+    }
+  },
+  {
+    "id": "汉语",
+    "hanzi": "汉语",
+    "pinyin": "Hànyǔ",
+    "pinyinNum": "han4 yu3",
+    "pos": "名詞",
+    "ja": "中国語",
+    "jaForm": "漢語",
+    "caution": "日本語の「漢語（音読み語）」ではなく中国語のこと",
+    "hsk": 1,
+    "example": {
+      "zh": "我学习汉语。",
+      "pinyin": "Wǒ xué xí hàn yǔ.",
+      "ja": "中国語を勉強している。"
+    }
+  },
+  {
+    "id": "汉字",
+    "hanzi": "汉字",
+    "pinyin": "Hànzì",
+    "pinyinNum": "han4 zi4",
+    "pos": "名詞",
+    "ja": "漢字",
+    "jaForm": "漢字",
+    "hsk": 1,
+    "example": {
+      "zh": "我会写汉字。",
+      "pinyin": "Wǒ huì xiě hàn zì.",
+      "ja": "漢字が書ける。"
+    }
+  },
+  {
+    "id": "东西",
+    "hanzi": "东西",
+    "pinyin": "dōngxi",
+    "pinyinNum": "dong1 xi0",
+    "pos": "名詞",
+    "ja": "物",
+    "jaForm": "東西",
+    "caution": "「東と西」ではなく「物」",
+    "hsk": 1,
+    "example": {
+      "zh": "你买什么东西？",
+      "pinyin": "Nǐ mǎi shén me dōng xi?",
+      "ja": "何を買うの？"
+    }
+  },
+  {
+    "id": "钱",
+    "hanzi": "钱",
+    "pinyin": "qián",
+    "pinyinNum": "qian2",
+    "pos": "名詞",
+    "ja": "お金",
+    "jaForm": "銭",
+    "hsk": 1,
+    "example": {
+      "zh": "我没有钱。",
+      "pinyin": "Wǒ méi yǒu qián.",
+      "ja": "お金がない。"
+    }
+  },
+  {
+    "id": "水",
+    "hanzi": "水",
+    "pinyin": "shuǐ",
+    "pinyinNum": "shui3",
+    "pos": "名詞",
+    "ja": "水",
+    "hsk": 1,
+    "example": {
+      "zh": "我想喝水。",
+      "pinyin": "Wǒ xiǎng hē shuǐ.",
+      "ja": "水が飲みたい。"
+    }
+  },
+  {
+    "id": "茶",
+    "hanzi": "茶",
+    "pinyin": "chá",
+    "pinyinNum": "cha2",
+    "pos": "名詞",
+    "ja": "お茶",
+    "hsk": 1,
+    "example": {
+      "zh": "你喝茶吗？",
+      "pinyin": "Nǐ hē chá ma?",
+      "ja": "お茶飲む？"
+    }
+  },
+  {
+    "id": "米饭",
+    "hanzi": "米饭",
+    "pinyin": "mǐfàn",
+    "pinyinNum": "mi3 fan4",
+    "pos": "名詞",
+    "ja": "ご飯（炊いた米）",
+    "jaForm": "米飯",
+    "hsk": 1,
+    "example": {
+      "zh": "我喜欢吃米饭。",
+      "pinyin": "Wǒ xǐ huan chī mǐ fàn.",
+      "ja": "ご飯が好きです。"
+    }
+  },
+  {
+    "id": "菜",
+    "hanzi": "菜",
+    "pinyin": "cài",
+    "pinyinNum": "cai4",
+    "pos": "名詞",
+    "ja": "料理、おかず、野菜",
+    "caution": "野菜だけでなく料理全般も指す",
+    "hsk": 1,
+    "example": {
+      "zh": "这个菜很好吃。",
+      "pinyin": "Zhè ge cài hěn hǎo chī.",
+      "ja": "この料理はおいしい。"
+    }
+  },
+  {
+    "id": "水果",
+    "hanzi": "水果",
+    "pinyin": "shuǐguǒ",
+    "pinyinNum": "shui3 guo3",
+    "pos": "名詞",
+    "ja": "果物",
+    "hsk": 1,
+    "example": {
+      "zh": "我喜欢吃水果。",
+      "pinyin": "Wǒ xǐ huan chī shuǐ guǒ.",
+      "ja": "果物を食べるのが好きだ。"
+    }
+  },
+  {
+    "id": "衣服",
+    "hanzi": "衣服",
+    "pinyin": "yīfu",
+    "pinyinNum": "yi1 fu0",
+    "pos": "名詞",
+    "ja": "服",
+    "hsk": 1,
+    "example": {
+      "zh": "我想买衣服。",
+      "pinyin": "Wǒ xiǎng mǎi yī fu.",
+      "ja": "服を買いたい。"
+    }
+  },
+  {
+    "id": "杯子",
+    "hanzi": "杯子",
+    "pinyin": "bēizi",
+    "pinyinNum": "bei1 zi0",
+    "pos": "名詞",
+    "ja": "コップ",
+    "hsk": 1,
+    "example": {
+      "zh": "这个杯子很好看。",
+      "pinyin": "Zhè ge bēi zi hěn hǎo kàn.",
+      "ja": "このコップはすてきだ。"
+    }
+  },
+  {
+    "id": "桌子",
+    "hanzi": "桌子",
+    "pinyin": "zhuōzi",
+    "pinyinNum": "zhuo1 zi0",
+    "pos": "名詞",
+    "ja": "机、テーブル",
+    "hsk": 1,
+    "example": {
+      "zh": "这是我的桌子。",
+      "pinyin": "Zhè shì wǒ de zhuō zi.",
+      "ja": "これは私の机です。"
+    }
+  },
+  {
+    "id": "床",
+    "hanzi": "床",
+    "pinyin": "chuáng",
+    "pinyinNum": "chuang2",
+    "pos": "名詞",
+    "ja": "ベッド",
+    "caution": "「床（ゆか）」ではなくベッド",
+    "hsk": 1,
+    "example": {
+      "zh": "我的床很大。",
+      "pinyin": "Wǒ de chuáng hěn dà.",
+      "ja": "私のベッドは大きい。"
+    }
+  },
+  {
+    "id": "电话",
+    "hanzi": "电话",
+    "pinyin": "diànhuà",
+    "pinyinNum": "dian4 hua4",
+    "pos": "名詞",
+    "ja": "電話",
+    "jaForm": "電話",
+    "hsk": 1,
+    "example": {
+      "zh": "这是我的电话。",
+      "pinyin": "Zhè shì wǒ de diàn huà.",
+      "ja": "これは私の電話です。"
+    }
+  },
+  {
+    "id": "手机",
+    "hanzi": "手机",
+    "pinyin": "shǒujī",
+    "pinyinNum": "shou3 ji1",
+    "pos": "名詞",
+    "ja": "携帯電話、スマホ",
+    "jaForm": "手機",
+    "hsk": 1,
+    "example": {
+      "zh": "我的手机在哪儿？",
+      "pinyin": "Wǒ de shǒu jī zài nǎr?",
+      "ja": "私のスマホはどこ？"
+    }
+  },
+  {
+    "id": "电脑",
+    "hanzi": "电脑",
+    "pinyin": "diànnǎo",
+    "pinyinNum": "dian4 nao3",
+    "pos": "名詞",
+    "ja": "パソコン",
+    "jaForm": "電脳",
+    "caution": "「電脳」ではなく普通のパソコン",
+    "hsk": 1,
+    "example": {
+      "zh": "我的电脑很新。",
+      "pinyin": "Wǒ de diàn nǎo hěn xīn.",
+      "ja": "私のパソコンは新しい。"
+    }
+  },
+  {
+    "id": "电视",
+    "hanzi": "电视",
+    "pinyin": "diànshì",
+    "pinyinNum": "dian4 shi4",
+    "pos": "名詞",
+    "ja": "テレビ",
+    "jaForm": "電視",
+    "hsk": 1,
+    "example": {
+      "zh": "我爸爸喜欢看电视。",
+      "pinyin": "Wǒ bà ba xǐ huan kàn diàn shì.",
+      "ja": "父はテレビを見るのが好きだ。"
+    }
+  },
+  {
+    "id": "电影",
+    "hanzi": "电影",
+    "pinyin": "diànyǐng",
+    "pinyinNum": "dian4 ying3",
+    "pos": "名詞",
+    "ja": "映画",
+    "jaForm": "電影",
+    "hsk": 1,
+    "example": {
+      "zh": "我们去看电影吧。",
+      "pinyin": "Wǒ men qù kàn diàn yǐng ba.",
+      "ja": "映画を見に行こう。"
+    }
+  },
+  {
+    "id": "飞机",
+    "hanzi": "飞机",
+    "pinyin": "fēijī",
+    "pinyinNum": "fei1 ji1",
+    "pos": "名詞",
+    "ja": "飛行機",
+    "jaForm": "飛機",
+    "hsk": 1,
+    "example": {
+      "zh": "我坐飞机去北京。",
+      "pinyin": "Wǒ zuò fēi jī qù běi jīng.",
+      "ja": "飛行機で北京へ行く。"
+    }
+  },
+  {
+    "id": "火车",
+    "hanzi": "火车",
+    "pinyin": "huǒchē",
+    "pinyinNum": "huo3 che1",
+    "pos": "名詞",
+    "ja": "列車",
+    "jaForm": "火車",
+    "hsk": 1,
+    "example": {
+      "zh": "我坐火车去。",
+      "pinyin": "Wǒ zuò huǒ chē qù.",
+      "ja": "列車で行く。"
+    }
+  },
+  {
+    "id": "出租车",
+    "hanzi": "出租车",
+    "pinyin": "chūzūchē",
+    "pinyinNum": "chu1 zu1 che1",
+    "pos": "名詞",
+    "ja": "タクシー",
+    "hsk": 1,
+    "example": {
+      "zh": "我们坐出租车吧。",
+      "pinyin": "Wǒ men zuò chū zū chē ba.",
+      "ja": "タクシーに乗ろう。"
+    }
+  },
+  {
+    "id": "天气",
+    "hanzi": "天气",
+    "pinyin": "tiānqì",
+    "pinyinNum": "tian1 qi4",
+    "pos": "名詞",
+    "ja": "天気",
+    "jaForm": "天気",
+    "hsk": 1,
+    "example": {
+      "zh": "今天天气很好。",
+      "pinyin": "Jīn tiān tiān qì hěn hǎo.",
+      "ja": "今日はいい天気だ。"
+    }
+  },
+  {
+    "id": "问题",
+    "hanzi": "问题",
+    "pinyin": "wèntí",
+    "pinyinNum": "wen4 ti2",
+    "pos": "名詞",
+    "ja": "問題、質問",
+    "jaForm": "問題",
+    "hsk": 1,
+    "example": {
+      "zh": "我有一个问题。",
+      "pinyin": "Wǒ yǒu yí gè wèn tí.",
+      "ja": "質問が1つあります。"
+    }
+  },
+  {
+    "id": "工作",
+    "hanzi": "工作",
+    "pinyin": "gōngzuò",
+    "pinyinNum": "gong1 zuo4",
+    "pos": "名詞・動詞",
+    "ja": "仕事、働く",
+    "caution": "「工作（こうさく）」ではなく仕事",
+    "hsk": 1,
+    "example": {
+      "zh": "你在哪儿工作？",
+      "pinyin": "Nǐ zài nǎr gōng zuò?",
+      "ja": "どこで働いていますか。"
+    }
+  },
+  {
+    "id": "是",
+    "hanzi": "是",
+    "pinyin": "shì",
+    "pinyinNum": "shi4",
+    "pos": "動詞",
+    "ja": "〜である",
+    "hsk": 1,
+    "example": {
+      "zh": "我是学生。",
+      "pinyin": "Wǒ shì xué sheng.",
+      "ja": "私は学生です。"
+    }
+  },
+  {
+    "id": "有",
+    "hanzi": "有",
+    "pinyin": "yǒu",
+    "pinyinNum": "you3",
+    "pos": "動詞",
+    "ja": "ある、持っている",
+    "hsk": 1,
+    "example": {
+      "zh": "我有一个哥哥。",
+      "pinyin": "Wǒ yǒu yí gè gē ge.",
+      "ja": "兄が1人いる。"
+    }
+  },
+  {
+    "id": "在",
+    "hanzi": "在",
+    "pinyin": "zài",
+    "pinyinNum": "zai4",
+    "pos": "動詞・前置詞",
+    "ja": "〜にある・いる、〜で",
+    "hsk": 1,
+    "example": {
+      "zh": "我在家。",
+      "pinyin": "Wǒ zài jiā.",
+      "ja": "私は家にいる。"
+    }
+  },
+  {
+    "id": "去",
+    "hanzi": "去",
+    "pinyin": "qù",
+    "pinyinNum": "qu4",
+    "pos": "動詞",
+    "ja": "行く",
+    "hsk": 1,
+    "example": {
+      "zh": "我明天去北京。",
+      "pinyin": "Wǒ míng tiān qù běi jīng.",
+      "ja": "明日北京へ行く。"
+    }
+  },
+  {
+    "id": "来",
+    "hanzi": "来",
+    "pinyin": "lái",
+    "pinyinNum": "lai2",
+    "pos": "動詞",
+    "ja": "来る",
+    "hsk": 1,
+    "example": {
+      "zh": "你来我家吧。",
+      "pinyin": "Nǐ lái wǒ jiā ba.",
+      "ja": "うちにおいでよ。"
+    }
+  },
+  {
+    "id": "回",
+    "hanzi": "回",
+    "pinyin": "huí",
+    "pinyinNum": "hui2",
+    "pos": "動詞",
+    "ja": "帰る、戻る",
+    "hsk": 1,
+    "example": {
+      "zh": "我想回家。",
+      "pinyin": "Wǒ xiǎng huí jiā.",
+      "ja": "家に帰りたい。"
+    }
+  },
+  {
+    "id": "看",
+    "hanzi": "看",
+    "pinyin": "kàn",
+    "pinyinNum": "kan4",
+    "pos": "動詞",
+    "ja": "見る、読む",
+    "hsk": 1,
+    "example": {
+      "zh": "我在看书。",
+      "pinyin": "Wǒ zài kàn shū.",
+      "ja": "本を読んでいる。"
+    }
+  },
+  {
+    "id": "听",
+    "hanzi": "听",
+    "pinyin": "tīng",
+    "pinyinNum": "ting1",
+    "pos": "動詞",
+    "ja": "聞く",
+    "jaForm": "聴",
+    "hsk": 1,
+    "example": {
+      "zh": "请听我说。",
+      "pinyin": "Qǐng tīng wǒ shuō.",
+      "ja": "私の話を聞いてください。"
+    }
+  },
+  {
+    "id": "说",
+    "hanzi": "说",
+    "pinyin": "shuō",
+    "pinyinNum": "shuo1",
+    "pos": "動詞",
+    "ja": "話す、言う",
+    "jaForm": "説",
+    "hsk": 1,
+    "example": {
+      "zh": "你会说汉语吗？",
+      "pinyin": "Nǐ huì shuō hàn yǔ ma?",
+      "ja": "中国語を話せますか。"
+    }
+  },
+  {
+    "id": "读",
+    "hanzi": "读",
+    "pinyin": "dú",
+    "pinyinNum": "du2",
+    "pos": "動詞",
+    "ja": "（声に出して）読む",
+    "jaForm": "読",
+    "hsk": 1,
+    "example": {
+      "zh": "请读一下。",
+      "pinyin": "Qǐng dú yí xià.",
+      "ja": "ちょっと読んでみてください。"
+    }
+  },
+  {
+    "id": "写",
+    "hanzi": "写",
+    "pinyin": "xiě",
+    "pinyinNum": "xie3",
+    "pos": "動詞",
+    "ja": "書く",
+    "hsk": 1,
+    "example": {
+      "zh": "我在写汉字。",
+      "pinyin": "Wǒ zài xiě hàn zì.",
+      "ja": "漢字を書いている。"
+    }
+  },
+  {
+    "id": "吃",
+    "hanzi": "吃",
+    "pinyin": "chī",
+    "pinyinNum": "chi1",
+    "pos": "動詞",
+    "ja": "食べる",
+    "hsk": 1,
+    "example": {
+      "zh": "你吃饭了吗？",
+      "pinyin": "Nǐ chī fàn le ma?",
+      "ja": "ご飯食べた？"
+    }
+  },
+  {
+    "id": "喝",
+    "hanzi": "喝",
+    "pinyin": "hē",
+    "pinyinNum": "he1",
+    "pos": "動詞",
+    "ja": "飲む",
+    "hsk": 1,
+    "example": {
+      "zh": "我想喝茶。",
+      "pinyin": "Wǒ xiǎng hē chá.",
+      "ja": "お茶が飲みたい。"
+    }
+  },
+  {
+    "id": "买",
+    "hanzi": "买",
+    "pinyin": "mǎi",
+    "pinyinNum": "mai3",
+    "pos": "動詞",
+    "ja": "買う",
+    "jaForm": "買",
+    "hsk": 1,
+    "example": {
+      "zh": "我想买手机。",
+      "pinyin": "Wǒ xiǎng mǎi shǒu jī.",
+      "ja": "スマホを買いたい。"
+    }
+  },
+  {
+    "id": "做",
+    "hanzi": "做",
+    "pinyin": "zuò",
+    "pinyinNum": "zuo4",
+    "pos": "動詞",
+    "ja": "する、作る",
+    "hsk": 1,
+    "example": {
+      "zh": "你在做什么？",
+      "pinyin": "Nǐ zài zuò shén me?",
+      "ja": "何をしているの？"
+    }
+  },
+  {
+    "id": "坐",
+    "hanzi": "坐",
+    "pinyin": "zuò",
+    "pinyinNum": "zuo4",
+    "pos": "動詞",
+    "ja": "座る、（乗り物に）乗る",
+    "hsk": 1,
+    "example": {
+      "zh": "请坐。",
+      "pinyin": "Qǐng zuò.",
+      "ja": "どうぞお座りください。"
+    }
+  },
+  {
+    "id": "住",
+    "hanzi": "住",
+    "pinyin": "zhù",
+    "pinyinNum": "zhu4",
+    "pos": "動詞",
+    "ja": "住む、泊まる",
+    "hsk": 1,
+    "example": {
+      "zh": "你住在哪儿？",
+      "pinyin": "Nǐ zhù zài nǎr?",
+      "ja": "どこに住んでいるの？"
+    }
+  },
+  {
+    "id": "睡觉",
+    "hanzi": "睡觉",
+    "pinyin": "shuìjiào",
+    "pinyinNum": "shui4 jiao4",
+    "pos": "動詞",
+    "ja": "寝る",
+    "jaForm": "睡覚",
+    "hsk": 1,
+    "example": {
+      "zh": "我十一点睡觉。",
+      "pinyin": "Wǒ shí yī diǎn shuì jiào.",
+      "ja": "11時に寝る。"
+    }
+  },
+  {
+    "id": "起床",
+    "hanzi": "起床",
+    "pinyin": "qǐchuáng",
+    "pinyinNum": "qi3 chuang2",
+    "pos": "動詞",
+    "ja": "起きる",
+    "hsk": 1,
+    "example": {
+      "zh": "你几点起床？",
+      "pinyin": "Nǐ jǐ diǎn qǐ chuáng?",
+      "ja": "何時に起きる？"
+    }
+  },
+  {
+    "id": "学习",
+    "hanzi": "学习",
+    "pinyin": "xuéxí",
+    "pinyinNum": "xue2 xi2",
+    "pos": "動詞",
+    "ja": "勉強する",
+    "jaForm": "学習",
+    "hsk": 1,
+    "example": {
+      "zh": "我在学习汉语。",
+      "pinyin": "Wǒ zài xué xí hàn yǔ.",
+      "ja": "中国語を勉強している。"
+    }
+  },
+  {
+    "id": "叫",
+    "hanzi": "叫",
+    "pinyin": "jiào",
+    "pinyinNum": "jiao4",
+    "pos": "動詞",
+    "ja": "（名前を）〜という、呼ぶ",
+    "hsk": 1,
+    "example": {
+      "zh": "我叫李明。",
+      "pinyin": "Wǒ jiào lǐ míng.",
+      "ja": "私は李明といいます。"
+    }
+  },
+  {
+    "id": "认识",
+    "hanzi": "认识",
+    "pinyin": "rènshi",
+    "pinyinNum": "ren4 shi0",
+    "pos": "動詞",
+    "ja": "（人を）知っている、知り合う",
+    "jaForm": "認識",
+    "caution": "「認識する」より「知り合い」の意味でよく使う",
+    "hsk": 1,
+    "example": {
+      "zh": "认识你很高兴。",
+      "pinyin": "Rèn shi nǐ hěn gāo xìng.",
+      "ja": "お会いできてうれしいです。"
+    }
+  },
+  {
+    "id": "知道",
+    "hanzi": "知道",
+    "pinyin": "zhīdào",
+    "pinyinNum": "zhi1 dao4",
+    "pos": "動詞",
+    "ja": "知っている",
+    "hsk": 1,
+    "example": {
+      "zh": "我不知道。",
+      "pinyin": "Wǒ bù zhī dào.",
+      "ja": "知りません。"
+    }
+  },
+  {
+    "id": "喜欢",
+    "hanzi": "喜欢",
+    "pinyin": "xǐhuan",
+    "pinyinNum": "xi3 huan0",
+    "pos": "動詞",
+    "ja": "好きだ",
+    "hsk": 1,
+    "example": {
+      "zh": "我喜欢吃中国菜。",
+      "pinyin": "Wǒ xǐ huan chī zhōng guó cài.",
+      "ja": "中華料理が好きだ。"
+    }
+  },
+  {
+    "id": "想",
+    "hanzi": "想",
+    "pinyin": "xiǎng",
+    "pinyinNum": "xiang3",
+    "pos": "助動詞",
+    "ja": "〜したい、思う",
+    "hsk": 1,
+    "example": {
+      "zh": "我想去中国。",
+      "pinyin": "Wǒ xiǎng qù zhōng guó.",
+      "ja": "中国に行きたい。"
+    }
+  },
+  {
+    "id": "会",
+    "hanzi": "会",
+    "pinyin": "huì",
+    "pinyinNum": "hui4",
+    "pos": "助動詞",
+    "ja": "（習得して）できる",
+    "hsk": 1,
+    "example": {
+      "zh": "我会说一点儿汉语。",
+      "pinyin": "Wǒ huì shuō yì diǎn ér hàn yǔ.",
+      "ja": "中国語が少し話せる。"
+    }
+  },
+  {
+    "id": "能",
+    "hanzi": "能",
+    "pinyin": "néng",
+    "pinyinNum": "neng2",
+    "pos": "助動詞",
+    "ja": "（能力・条件的に）できる",
+    "hsk": 1,
+    "example": {
+      "zh": "你明天能来吗？",
+      "pinyin": "Nǐ míng tiān néng lái ma?",
+      "ja": "明日来られる？"
+    }
+  },
+  {
+    "id": "要",
+    "hanzi": "要",
+    "pinyin": "yào",
+    "pinyinNum": "yao4",
+    "pos": "動詞",
+    "ja": "要る、〜するつもり",
+    "hsk": 1,
+    "example": {
+      "zh": "我要一杯茶。",
+      "pinyin": "Wǒ yào yì bēi chá.",
+      "ja": "お茶を1杯ください。"
+    }
+  },
+  {
+    "id": "打电话",
+    "hanzi": "打电话",
+    "pinyin": "dǎ diànhuà",
+    "pinyinNum": "da3 dian4 hua4",
+    "pos": "動詞",
+    "ja": "電話をかける",
+    "jaForm": "打電話",
+    "hsk": 1,
+    "example": {
+      "zh": "我晚上给你打电话。",
+      "pinyin": "Wǒ wǎn shang gěi nǐ dǎ diàn huà.",
+      "ja": "夜電話するね。"
+    }
+  },
+  {
+    "id": "开",
+    "hanzi": "开",
+    "pinyin": "kāi",
+    "pinyinNum": "kai1",
+    "pos": "動詞",
+    "ja": "開ける、運転する",
+    "jaForm": "開",
+    "hsk": 1,
+    "example": {
+      "zh": "请开门。",
+      "pinyin": "Qǐng kāi mén.",
+      "ja": "ドアを開けてください。"
+    }
+  },
+  {
+    "id": "走",
+    "hanzi": "走",
+    "pinyin": "zǒu",
+    "pinyinNum": "zou3",
+    "pos": "動詞",
+    "ja": "歩く、行く、去る",
+    "caution": "「走る」ではなく「歩く・その場を離れる」",
+    "hsk": 1,
+    "example": {
+      "zh": "我们走吧。",
+      "pinyin": "Wǒ men zǒu ba.",
+      "ja": "行こう。"
+    }
+  },
+  {
+    "id": "跑",
+    "hanzi": "跑",
+    "pinyin": "pǎo",
+    "pinyinNum": "pao3",
+    "pos": "動詞",
+    "ja": "走る",
+    "hsk": 1,
+    "example": {
+      "zh": "他跑得很快。",
+      "pinyin": "Tā pǎo dé hěn kuài.",
+      "ja": "彼は走るのが速い。"
+    }
+  },
+  {
+    "id": "告诉",
+    "hanzi": "告诉",
+    "pinyin": "gàosu",
+    "pinyinNum": "gao4 su0",
+    "pos": "動詞",
+    "ja": "伝える、教える",
+    "jaForm": "告訴",
+    "caution": "「告訴（こくそ）」ではなく「伝える」",
+    "hsk": 1,
+    "example": {
+      "zh": "请告诉我。",
+      "pinyin": "Qǐng gào su wǒ.",
+      "ja": "教えてください。"
+    }
+  },
+  {
+    "id": "请",
+    "hanzi": "请",
+    "pinyin": "qǐng",
+    "pinyinNum": "qing3",
+    "pos": "動詞",
+    "ja": "どうぞ〜してください、招く",
+    "jaForm": "請",
+    "hsk": 1,
+    "example": {
+      "zh": "请喝茶。",
+      "pinyin": "Qǐng hē chá.",
+      "ja": "お茶をどうぞ。"
+    }
+  },
+  {
+    "id": "谢谢",
+    "hanzi": "谢谢",
+    "pinyin": "xièxie",
+    "pinyinNum": "xie4 xie0",
+    "pos": "動詞",
+    "ja": "ありがとう",
+    "jaForm": "謝謝",
+    "hsk": 1,
+    "example": {
+      "zh": "谢谢你！",
+      "pinyin": "Xiè xie nǐ!",
+      "ja": "ありがとう！"
+    }
+  },
+  {
+    "id": "对不起",
+    "hanzi": "对不起",
+    "pinyin": "duìbuqǐ",
+    "pinyinNum": "dui4 bu0 qi3",
+    "pos": "フレーズ",
+    "ja": "ごめんなさい",
+    "hsk": 1,
+    "example": {
+      "zh": "对不起，我来晚了。",
+      "pinyin": "Duì bu qǐ, wǒ lái wǎn le.",
+      "ja": "ごめんなさい、遅れました。"
+    }
+  },
+  {
+    "id": "没关系",
+    "hanzi": "没关系",
+    "pinyin": "méi guānxi",
+    "pinyinNum": "mei2 guan1 xi0",
+    "pos": "フレーズ",
+    "ja": "大丈夫、かまわない",
+    "jaForm": "没関係",
+    "hsk": 1,
+    "example": {
+      "zh": "没关系，我们走吧。",
+      "pinyin": "Méi guān xi, wǒ men zǒu ba.",
+      "ja": "大丈夫、行こう。"
+    }
+  },
+  {
+    "id": "不客气",
+    "hanzi": "不客气",
+    "pinyin": "bú kèqi",
+    "pinyinNum": "bu2 ke4 qi0",
+    "pos": "フレーズ",
+    "ja": "どういたしまして",
+    "hsk": 1,
+    "example": {
+      "zh": "不客气！",
+      "pinyin": "Bú kè qi!",
+      "ja": "どういたしまして。"
+    }
+  },
+  {
+    "id": "再见",
+    "hanzi": "再见",
+    "pinyin": "zàijiàn",
+    "pinyinNum": "zai4 jian4",
+    "pos": "動詞",
+    "ja": "さようなら",
+    "jaForm": "再見",
+    "hsk": 1,
+    "example": {
+      "zh": "老师，再见！",
+      "pinyin": "Lǎo shī, zài jiàn!",
+      "ja": "先生、さようなら。"
+    }
+  },
+  {
+    "id": "好",
+    "hanzi": "好",
+    "pinyin": "hǎo",
+    "pinyinNum": "hao3",
+    "pos": "形容詞",
+    "ja": "よい",
+    "hsk": 1,
+    "example": {
+      "zh": "你好！",
+      "pinyin": "Nǐ hǎo!",
+      "ja": "こんにちは。"
+    }
+  },
+  {
+    "id": "大",
+    "hanzi": "大",
+    "pinyin": "dà",
+    "pinyinNum": "da4",
+    "pos": "形容詞",
+    "ja": "大きい",
+    "hsk": 1,
+    "example": {
+      "zh": "我家很大。",
+      "pinyin": "Wǒ jiā hěn dà.",
+      "ja": "私の家は大きい。"
+    }
+  },
+  {
+    "id": "小",
+    "hanzi": "小",
+    "pinyin": "xiǎo",
+    "pinyinNum": "xiao3",
+    "pos": "形容詞",
+    "ja": "小さい",
+    "hsk": 1,
+    "example": {
+      "zh": "这个杯子很小。",
+      "pinyin": "Zhè ge bēi zi hěn xiǎo.",
+      "ja": "このコップは小さい。"
+    }
+  },
+  {
+    "id": "多",
+    "hanzi": "多",
+    "pinyin": "duō",
+    "pinyinNum": "duo1",
+    "pos": "形容詞",
+    "ja": "多い",
+    "hsk": 1,
+    "example": {
+      "zh": "这儿人很多。",
+      "pinyin": "Zhèr rén hěn duō.",
+      "ja": "ここは人が多い。"
+    }
+  },
+  {
+    "id": "少",
+    "hanzi": "少",
+    "pinyin": "shǎo",
+    "pinyinNum": "shao3",
+    "pos": "形容詞",
+    "ja": "少ない",
+    "hsk": 1,
+    "example": {
+      "zh": "今天人很少。",
+      "pinyin": "Jīn tiān rén hěn shǎo.",
+      "ja": "今日は人が少ない。"
+    }
+  },
+  {
+    "id": "热",
+    "hanzi": "热",
+    "pinyin": "rè",
+    "pinyinNum": "re4",
+    "pos": "形容詞",
+    "ja": "暑い、熱い",
+    "jaForm": "熱",
+    "hsk": 1,
+    "example": {
+      "zh": "这儿很热。",
+      "pinyin": "Zhèr hěn rè.",
+      "ja": "ここは暑い。"
+    }
+  },
+  {
+    "id": "冷",
+    "hanzi": "冷",
+    "pinyin": "lěng",
+    "pinyinNum": "leng3",
+    "pos": "形容詞",
+    "ja": "寒い、冷たい",
+    "hsk": 1,
+    "example": {
+      "zh": "今天很冷。",
+      "pinyin": "Jīn tiān hěn lěng.",
+      "ja": "今日は寒い。"
+    }
+  },
+  {
+    "id": "高兴",
+    "hanzi": "高兴",
+    "pinyin": "gāoxìng",
+    "pinyinNum": "gao1 xing4",
+    "pos": "形容詞",
+    "ja": "うれしい",
+    "jaForm": "高興",
+    "hsk": 1,
+    "example": {
+      "zh": "我今天很高兴。",
+      "pinyin": "Wǒ jīn tiān hěn gāo xìng.",
+      "ja": "今日はとてもうれしい。"
+    }
+  },
+  {
+    "id": "忙",
+    "hanzi": "忙",
+    "pinyin": "máng",
+    "pinyinNum": "mang2",
+    "pos": "形容詞",
+    "ja": "忙しい",
+    "hsk": 1,
+    "example": {
+      "zh": "你忙吗？",
+      "pinyin": "Nǐ máng ma?",
+      "ja": "忙しい？"
+    }
+  },
+  {
+    "id": "贵",
+    "hanzi": "贵",
+    "pinyin": "guì",
+    "pinyinNum": "gui4",
+    "pos": "形容詞",
+    "ja": "（値段が）高い",
+    "jaForm": "貴",
+    "hsk": 1,
+    "example": {
+      "zh": "这个很贵。",
+      "pinyin": "Zhè ge hěn guì.",
+      "ja": "これは高い。"
+    }
+  },
+  {
+    "id": "好吃",
+    "hanzi": "好吃",
+    "pinyin": "hǎochī",
+    "pinyinNum": "hao3 chi1",
+    "pos": "形容詞",
+    "ja": "おいしい",
+    "hsk": 1,
+    "example": {
+      "zh": "中国菜很好吃。",
+      "pinyin": "Zhōng guó cài hěn hǎo chī.",
+      "ja": "中華料理はおいしい。"
+    }
+  },
+  {
+    "id": "很",
+    "hanzi": "很",
+    "pinyin": "hěn",
+    "pinyinNum": "hen3",
+    "pos": "副詞",
+    "ja": "とても",
+    "hsk": 1,
+    "example": {
+      "zh": "我很好。",
+      "pinyin": "Wǒ hěn hǎo.",
+      "ja": "私は元気です。"
+    }
+  },
+  {
+    "id": "不",
+    "hanzi": "不",
+    "pinyin": "bù",
+    "pinyinNum": "bu4",
+    "pos": "副詞",
+    "ja": "〜ない（否定）",
+    "hsk": 1,
+    "example": {
+      "zh": "我不是老师。",
+      "pinyin": "Wǒ bú shì lǎo shī.",
+      "ja": "私は先生ではありません。"
+    }
+  },
+  {
+    "id": "没",
+    "hanzi": "没",
+    "pinyin": "méi",
+    "pinyinNum": "mei2",
+    "pos": "副詞",
+    "ja": "〜なかった、ない",
+    "hsk": 1,
+    "example": {
+      "zh": "我没去。",
+      "pinyin": "Wǒ méi qù.",
+      "ja": "行かなかった。"
+    }
+  },
+  {
+    "id": "都",
+    "hanzi": "都",
+    "pinyin": "dōu",
+    "pinyinNum": "dou1",
+    "pos": "副詞",
+    "ja": "みんな、すべて",
+    "hsk": 1,
+    "example": {
+      "zh": "我们都是学生。",
+      "pinyin": "Wǒ men dōu shì xué sheng.",
+      "ja": "私たちはみんな学生です。"
+    }
+  },
+  {
+    "id": "也",
+    "hanzi": "也",
+    "pinyin": "yě",
+    "pinyinNum": "ye3",
+    "pos": "副詞",
+    "ja": "〜も",
+    "hsk": 1,
+    "example": {
+      "zh": "我也是日本人。",
+      "pinyin": "Wǒ yě shì rì běn rén.",
+      "ja": "私も日本人です。"
+    }
+  },
+  {
+    "id": "太",
+    "hanzi": "太",
+    "pinyin": "tài",
+    "pinyinNum": "tai4",
+    "pos": "副詞",
+    "ja": "〜すぎる、とても",
+    "hsk": 1,
+    "example": {
+      "zh": "太好了！",
+      "pinyin": "Tài hǎo le!",
+      "ja": "よかった！"
+    }
+  },
+  {
+    "id": "一起",
+    "hanzi": "一起",
+    "pinyin": "yìqǐ",
+    "pinyinNum": "yi4 qi3",
+    "pos": "副詞",
+    "ja": "一緒に",
+    "hsk": 1,
+    "example": {
+      "zh": "我们一起吃饭吧。",
+      "pinyin": "Wǒ men yì qǐ chī fàn ba.",
+      "ja": "一緒にご飯を食べよう。"
+    }
+  },
+  {
+    "id": "和",
+    "hanzi": "和",
+    "pinyin": "hé",
+    "pinyinNum": "he2",
+    "pos": "接続詞",
+    "ja": "〜と",
+    "hsk": 1,
+    "example": {
+      "zh": "我和妈妈去商店。",
+      "pinyin": "Wǒ hé mā ma qù shāng diàn.",
+      "ja": "母と店に行く。"
+    }
+  },
+  {
+    "id": "的",
+    "hanzi": "的",
+    "pinyin": "de",
+    "pinyinNum": "de0",
+    "pos": "助詞",
+    "ja": "〜の",
+    "hsk": 1,
+    "example": {
+      "zh": "这是我的手机。",
+      "pinyin": "Zhè shì wǒ de shǒu jī.",
+      "ja": "これは私のスマホです。"
+    }
+  },
+  {
+    "id": "了",
+    "hanzi": "了",
+    "pinyin": "le",
+    "pinyinNum": "le0",
+    "pos": "助詞",
+    "ja": "〜した（完了）",
+    "hsk": 1,
+    "example": {
+      "zh": "我吃了。",
+      "pinyin": "Wǒ chī le.",
+      "ja": "食べた。"
+    }
+  },
+  {
+    "id": "吗",
+    "hanzi": "吗",
+    "pinyin": "ma",
+    "pinyinNum": "ma0",
+    "pos": "助詞",
+    "ja": "〜か（疑問）",
+    "hsk": 1,
+    "example": {
+      "zh": "你是老师吗？",
+      "pinyin": "Nǐ shì lǎo shī ma?",
+      "ja": "あなたは先生ですか。"
+    }
+  },
+  {
+    "id": "呢",
+    "hanzi": "呢",
+    "pinyin": "ne",
+    "pinyinNum": "ne0",
+    "pos": "助詞",
+    "ja": "〜は？",
+    "hsk": 1,
+    "example": {
+      "zh": "我很好，你呢？",
+      "pinyin": "Wǒ hěn hǎo, nǐ ne?",
+      "ja": "私は元気、あなたは？"
+    }
+  },
+  {
+    "id": "吧",
+    "hanzi": "吧",
+    "pinyin": "ba",
+    "pinyinNum": "ba0",
+    "pos": "助詞",
+    "ja": "〜しよう、〜でしょう",
+    "hsk": 1,
+    "example": {
+      "zh": "他走了吧？",
+      "pinyin": "Tā zǒu le ba?",
+      "ja": "彼は帰ったでしょう？"
+    }
+  },
+  {
+    "id": "上",
+    "hanzi": "上",
+    "pinyin": "shàng",
+    "pinyinNum": "shang4",
+    "pos": "名詞",
+    "ja": "上",
+    "hsk": 1,
+    "example": {
+      "zh": "手机在桌子上。",
+      "pinyin": "Shǒu jī zài zhuō zi shàng.",
+      "ja": "スマホは机の上にある。"
+    }
+  },
+  {
+    "id": "下",
+    "hanzi": "下",
+    "pinyin": "xià",
+    "pinyinNum": "xia4",
+    "pos": "名詞",
+    "ja": "下",
+    "hsk": 1,
+    "example": {
+      "zh": "桌子下有一个杯子。",
+      "pinyin": "Zhuō zi xià yǒu yí gè bēi zi.",
+      "ja": "机の下にコップがある。"
+    }
+  },
+  {
+    "id": "里",
+    "hanzi": "里",
+    "pinyin": "lǐ",
+    "pinyinNum": "li3",
+    "pos": "名詞",
+    "ja": "中",
+    "jaForm": "裏",
+    "caution": "「裏（うら）」ではなく「中」",
+    "hsk": 1,
+    "example": {
+      "zh": "家里有人吗？",
+      "pinyin": "Jiā lǐ yǒu rén ma?",
+      "ja": "家にだれかいますか。"
+    }
+  },
+  {
+    "id": "前",
+    "hanzi": "前",
+    "pinyin": "qián",
+    "pinyinNum": "qian2",
+    "pos": "名詞",
+    "ja": "前",
+    "hsk": 1,
+    "example": {
+      "zh": "三天前我去了北京。",
+      "pinyin": "Sān tiān qián wǒ qù le běi jīng.",
+      "ja": "3日前に北京に行った。"
+    }
+  },
+  {
+    "id": "后",
+    "hanzi": "后",
+    "pinyin": "hòu",
+    "pinyinNum": "hou4",
+    "pos": "名詞",
+    "ja": "後ろ、後",
+    "jaForm": "後",
+    "hsk": 1,
+    "example": {
+      "zh": "他在我后边。",
+      "pinyin": "Tā zài wǒ hòu biān.",
+      "ja": "彼は私の後ろにいる。"
+    }
+  },
+  {
+    "id": "左",
+    "hanzi": "左",
+    "pinyin": "zuǒ",
+    "pinyinNum": "zuo3",
+    "pos": "名詞",
+    "ja": "左",
+    "hsk": 1,
+    "example": {
+      "zh": "我家在学校左边。",
+      "pinyin": "Wǒ jiā zài xué xiào zuǒ biān.",
+      "ja": "私の家は学校の左側にある。"
+    }
+  },
+  {
+    "id": "右",
+    "hanzi": "右",
+    "pinyin": "yòu",
+    "pinyinNum": "you4",
+    "pos": "名詞",
+    "ja": "右",
+    "hsk": 1,
+    "example": {
+      "zh": "商店在右边。",
+      "pinyin": "Shāng diàn zài yòu biān.",
+      "ja": "店は右側にある。"
+    }
+  }
+]

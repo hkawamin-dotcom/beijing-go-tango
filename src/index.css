@@ -1,0 +1,40 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-brand: #c2410c;
+  --color-brand-dark: #9a3412;
+  --color-paper: #fffaf5;
+  --color-ink: #292524;
+  /* 声調の色（1声 赤・2声 緑・3声 青・4声 紫・軽声 灰） */
+  --color-tone-1: #dc2626;
+  --color-tone-2: #16a34a;
+  --color-tone-3: #2563eb;
+  --color-tone-4: #9333ea;
+  --color-tone-0: #78716c;
+  --font-sans: 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Noto Sans JP', 'Yu Gothic UI', Meiryo, sans-serif;
+  --font-zh: 'PingFang SC', 'Noto Sans SC', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Microsoft YaHei', sans-serif;
+}
+
+:root {
+  color-scheme: light;
+}
+
+html,
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  -webkit-tap-highlight-color: transparent;
+  overscroll-behavior-y: none;
+}
+
+/* 中国語の部分は必ず中国本土向けフォントで表示する */
+:lang(zh-CN) {
+  font-family: var(--font-zh);
+}
+
+.safe-bottom {
+  padding-bottom: max(1rem, env(safe-area-inset-bottom));
+}
+.safe-top {
+  padding-top: max(0.75rem, env(safe-area-inset-top));
+}
