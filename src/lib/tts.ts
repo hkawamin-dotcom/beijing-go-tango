@@ -44,14 +44,39 @@ export function loadChineseVoice(): Promise<SpeechSynthesisVoice | null> {
   })
 }
 
-export async function speak(text: string, opts: { slow?: boolean } = {}): Promise<void> {
+// 速さについて：
+// iPhone の Safari は「指定した速さ × iPhone 標準の速さ」で読み上げる。
+// 1.0 未満では音声を引き伸ばすため、0.6 まで下げると音が伸びて歪んだ（実機で確認）。
+// そのため普通は 1.0（引き伸ばしなし）、ゆっくりも 0.65 より下げない。
+export const NORMAL_RATE = 1
+
+export const SLOW_LEVELS = {
+  mild: { rate: 0.85, label: '少しゆっくり' },
+  medium: { rate: 0.75, label: 'ゆっくり' },
+  strong: { rate: 0.65, label: 'とてもゆっくり' },
+} as const
+
+export type SlowLevel = keyof typeof SLOW_LEVELS
+
+export function rateFor(opts: { slow?: boolean }, level: SlowLevel): number {
+  return opts.slow ? SLOW_LEVELS[level].rate : NORMAL_RATE
+}
+
+let slowLevel: SlowLevel = 'medium'
+
+/** 設定画面で選んだ「ゆっくり」の段階を反映する */
+export function setSlowLevel(level: SlowLevel): void {
+  slowLevel = level
+}
+
+export async function speak(text: string, opts: { slow?: boolean; level?: SlowLevel } = {}): Promise<void> {
   if (!isSupported()) return
   const voice = await loadChineseVoice()
   speechSynthesis.cancel()
   const u = new SpeechSynthesisUtterance(text)
   u.lang = 'zh-CN'
   if (voice) u.voice = voice
-  u.rate = opts.slow ? 0.6 : 0.85
+  u.rate = rateFor(opts, opts.level ?? slowLevel)
   speechSynthesis.speak(u)
 }
 

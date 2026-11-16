@@ -35,6 +35,12 @@ describe('学習記録の保存', () => {
     expect(await loadSettings()).toEqual(DEFAULT_SETTINGS)
     await saveSetting('newPerDay', 20)
     await saveSetting('autoSpeak', false)
-    expect(await loadSettings()).toEqual({ newPerDay: 20, autoSpeak: false })
+    await saveSetting('slowLevel', 'strong')
+    expect(await loadSettings()).toEqual({ newPerDay: 20, autoSpeak: false, slowLevel: 'strong' })
+  })
+
+  it('設定：保存された「ゆっくり」の段階が不正な値なら既定値に戻す', async () => {
+    await db.settings.put({ key: 'slowLevel', value: 'superslow' })
+    expect((await loadSettings()).slowLevel).toBe(DEFAULT_SETTINGS.slowLevel)
   })
 })

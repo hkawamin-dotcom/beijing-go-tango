@@ -12,6 +12,7 @@ import {
   saveSetting,
   type Settings,
 } from './lib/db'
+import { setSlowLevel } from './lib/tts'
 import { Home } from './components/Home'
 import { Study } from './components/Study'
 import { WordList } from './components/WordList'
@@ -33,6 +34,7 @@ export default function App() {
       progressRef.current = p
       setProgress(p)
       setSettings(s)
+      setSlowLevel(s.slowLevel)
     })
     void requestPersistentStorage()
   }, [])
@@ -73,6 +75,7 @@ export default function App() {
 
   const changeSetting = useCallback(<K extends keyof Settings>(key: K, value: Settings[K]) => {
     setSettings((s) => ({ ...s, [key]: value }))
+    if (key === 'slowLevel') setSlowLevel(value as Settings['slowLevel'])
     void saveSetting(key, value)
   }, [])
 
